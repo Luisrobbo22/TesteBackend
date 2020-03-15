@@ -1,0 +1,8 @@
+br/com/robbo/testeBackend/service/exception/ObjectNotFoundException.class
+br/com/robbo/testeBackend/repository/AlunoRepositoy.class
+br/com/robbo/testeBackend/controller/exceptions/ResourceExceptionHandler.class
+br/com/robbo/testeBackend/controller/AlunoController.class
+br/com/robbo/testeBackend/service/AlunoService.class
+br/com/robbo/testeBackend/ProjetoTesteBackendApplication.class
+br/com/robbo/testeBackend/model/Aluno.class
+br/com/robbo/testeBackend/controller/exceptions/StandardError.class

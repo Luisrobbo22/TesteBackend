@@ -1,0 +1,8 @@
+/home/leonardo/Downloads/TesteBackend/src/main/java/br/com/robbo/testeBackend/controller/exceptions/StandardError.java
+/home/leonardo/Downloads/TesteBackend/src/main/java/br/com/robbo/testeBackend/service/AlunoService.java
+/home/leonardo/Downloads/TesteBackend/src/main/java/br/com/robbo/testeBackend/model/Aluno.java
+/home/leonardo/Downloads/TesteBackend/src/main/java/br/com/robbo/testeBackend/service/exception/ObjectNotFoundException.java
+/home/leonardo/Downloads/TesteBackend/src/main/java/br/com/robbo/testeBackend/repository/AlunoRepositoy.java
+/home/leonardo/Downloads/TesteBackend/src/main/java/br/com/robbo/testeBackend/controller/exceptions/ResourceExceptionHandler.java
+/home/leonardo/Downloads/TesteBackend/src/main/java/br/com/robbo/testeBackend/ProjetoTesteBackendApplication.java
+/home/leonardo/Downloads/TesteBackend/src/main/java/br/com/robbo/testeBackend/controller/AlunoController.java
